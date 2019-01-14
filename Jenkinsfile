@@ -19,5 +19,4 @@ pipeline {
                 echo 'Deploying....'
             }
         }
-    }
-    }
+     }
